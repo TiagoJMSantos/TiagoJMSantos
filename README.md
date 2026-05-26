@@ -1,28 +1,36 @@
-# Hi there, I'm Cigarettes 👋
+<h1 align="left">Hi there, I'm Cigarettes 👋</h1>
 
-## 🚀 About Me
-I'm a young man passionate about learning how to develop and code. Currently, I'm honing my skills in various programming languages and frameworks. I enjoy collaborating with other developers and working on exciting projects.
-Computer Science & Engineering student at IST - Lisboa
+###
 
-## 🛠️ Skills
-![JavaScript](https://img.shields.io/badge/-JavaScript-EDD83D?style=flat&logo=javascript&logoColor=white)
-![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat&logo=lua&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![PYTHON](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
-[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
-[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
+<p align="left">I'm a young man passionate about learning how to develop and code. Currently, I'm honing my skills in various programming languages and frameworks. I enjoy collaborating with other developers and working on exciting projects.<br><br>🎓 Computer Science & Engineering student at Instituto Superior Técnico<br>🏋️ gym + coding</p>
 
-## 📂 Current Projects
-I'm currently collaborating with [DiogoGramunha](https://github.com/DiogoGramunha) on several projects. Together, we are developing scripts for the FiveM framework, a modification framework for GTA V.
+###
 
-## 📫 Get in Touch
-Feel free to reach out if you'd like to collaborate or have any questions. I'm always open to connecting with fellow developers and learning from the community.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TiagoJMSantos/TiagoJMSantos/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/TiagoJMSantos/TiagoJMSantos/languages-output/languages.svg" height="150" alt="languages graph"  />
+</div>
 
-![GitHub followers](https://img.shields.io/github/followers/Cigarettes1Tamagucci?style=social)
-![GitHub stars](https://img.shields.io/github/stars/Cigarettes1Tamagucci?style=social)
+###
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TiagoJMSantos/TiagoJMSantos/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TiagoJMSantos/TiagoJMSantos/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TiagoJMSantos/TiagoJMSantos/pacman-output/pacman-contribution-graph.svg">
+</picture>
 
-Thank you for visiting my profile! 😊
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+</div>
+
+###
