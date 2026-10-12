@@ -24,7 +24,7 @@ jobs:
         with:
           card: top-langs
           options: >-
-            username=${{ github.repository_owner }}&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false
+            username=${{ github.repository_owner }}&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false
           path: dist/languages.svg
           token: ${{ secrets.PROFILE_STATS_TOKEN }}
 
