@@ -1,8 +1,25 @@
-<h1 align="left">Hi there, I'm Cigarettes 👋</h1>
+# Hey, I'm Tiago aka Cigarettes 👋
 
-###
+💻 Computer Engineering student @ Instituto Superior Técnico
 
-<p align="left">I'm a young man passionate about learning how to develop and code. Currently, I'm honing my skills in various programming languages and frameworks. I enjoy collaborating with other developers and working on exciting projects.<br><br>🎓 Computer Science & Engineering student at Instituto Superior Técnico<br>🏋️ gym + coding</p>
+Currently grinding through uni, building projects, and getting better at software engineering one commit at a time.
+
+### 🛠️ Tech Stack
+`C` · `Java` · `Python` · `TypeScript` · `React` · `Lua` · `MySQL`
+
+### 🚀 What I'm Up To
+- 📚 Working on university projects and personal side projects
+- 💡 Exploring new technologies and building things just for the fun of it
+- 🎯 Always looking for the next interesting project to work on
+
+### 🎮 Outside the Terminal
+- 🏋️ Gym
+- 🎮 Gaming
+- 💻 Coding (yes, even outside uni)
+
+**Always learning. Always building. Always grinding.** ⚡
+
+** "Make it better" **
 
 ###
 
