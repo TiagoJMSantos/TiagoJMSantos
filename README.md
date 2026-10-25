@@ -19,7 +19,7 @@ Currently grinding through uni, building projects, and getting better at softwar
 
 **Always learning. Always building. Always grinding.** ⚡
 
-** "Make it better" **
+**"Make it better"**
 
 ###
 
